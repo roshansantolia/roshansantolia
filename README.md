@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently exploring the world of python.
+- 💬 Ask me about python, javascript or any general programming problem.
+- 📫 How to reach me: roshan.sci@gmail.com
+
 <!--
 **roshansantolia/roshansantolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
